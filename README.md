@@ -1,70 +1,43 @@
-### Hey there 👋
+### hi, i'm giovanni 👋
 
-![Software Developer (2)](https://github.com/user-attachments/assets/040625b6-0139-49fd-8e3a-4b92055b4080)
+based in **italy ↔ europe** | **building tools i wish existed**
 
-I’m a software developer with a solid background in systems administration who loves turning complex ideas into clean, dependable code.  
-I blend disciplined engineering with a relaxed attitude that keeps collaboration smooth and enjoyable, and I stay curious about new tools and practices that raise the bar.
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-121212?style=flat-square&logo=openai&logoColor=white)
 
-Outside the codebase you’ll find me exploring new cities, perfecting an espresso shot, or planning my next hike.
-###
+and a lot of other stuff
 
-<div align="left">
-  <a href="https://discord.gg/SwbktCekbs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/giovanni-d-andrea-b3b456111/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/jontec8" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-<hr />
+---
 
-### Main Technologies
+### what i built
 
-###
+- 🌐 [Avely.me](https://avely.me) - a new link-in-bio. built for creators
+- 🐳 [Dockscan](https://github.com/imggion/dock-scan) - native menu bar to manage your Docker stuff
+- 💻 [Codeishot](https://codeishot.com) - a place to share your code snippet
+- 🧱 [Apivault](https://github.com/exa-studio/ApiVault) - a gatweay for public APIs
+- 🧪 [Liquid Glass Generator](https://github.com/imggion/liquid-glass-generator) - liquid glass generator PoC
 
-<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/7/79/AsasaaA.gif"  />
+and a lot of failed projects
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C-000000?logo=c&logoColor=white&style=for-the-badge" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
-</div>
+### photography (side quest)
 
-###
+street & analog photography.  
+shooting digital + film. documenting places, people, and quiet moments.
 
-<br clear="both">
+---
 
-<h3 align="left"><strong>Support me ❤️:</strong></h3>
+### connect
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I0LQ9O3)
+[![X](https://img.shields.io/badge/-@imggion-1DA1F2?style=flat-square&logo=X&logoColor=black)](https://x.com/imggion)
+[![LinkedIn](https://img.shields.io/badge/-Giovanni_D'Andrea-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/giovanni-d-andrea-b3b456111/))
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imggion)
 
-<br>
-
-<h3 align="left"><strong>Or with Crypto:</strong></h3>
-<ul>
-  <li>
-    <div align="left">
-      <img src="https://bitcoin.org/img/icons/opengraph.png?1666174126" alt="bitcoin" width="20" height="20"/> bc1qdcaxgmfjqufkt3hq35uqqyrt88n0cgxwypzkgj
-    </div>
-  </li>
-  <li>
-    <div align="left">
-      <img src="https://images.youngplatform.com/coins/eth.png" alt="ethereum" width="20" height="20"/> 0x2Ef43C076EdD85f9C037E233cc0678F3C56CC4C6
-    </div>
-  </li>
-</ul
