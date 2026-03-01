@@ -2,12 +2,15 @@
 
 based in **italy ↔ europe** | **building tools i wish existed**
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Database](https://img.shields.io/badge/-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Server](https://img.shields.io/badge/-Server-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-121212?style=flat-square&logo=openai&logoColor=white)
@@ -20,6 +23,7 @@ and a lot of other stuff
 
 - 🌐 [Avely.me](https://avely.me) - a new link-in-bio. built for creators
 - 🐳 [Dockscan](https://github.com/imggion/dock-scan) - native menu bar to manage your Docker stuff
+- 🪣 [OpenBucket](https://github.com/imggion/OpenBucket) - a desktop GUI for S3 compatible object storage
 - 💻 [Codeishot](https://codeishot.com) - a place to share your code snippet
 - 🧱 [Apivault](https://github.com/exa-studio/ApiVault) - a gatweay for public APIs
 - 🧪 [Liquid Glass Generator](https://github.com/imggion/liquid-glass-generator) - liquid glass generator PoC
@@ -30,7 +34,7 @@ and a lot of failed projects
 
 ### photography (side quest)
 
-street & analog photography.  
+street & film photography.  
 shooting digital + film. documenting places, people, and quiet moments.
 
 ---
