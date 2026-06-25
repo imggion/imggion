@@ -1,6 +1,6 @@
 ### hi, i'm giovanni 👋
 
-based in **italy ↔ europe** | **building tools i wish existed**
+based in **italy ↔ europe** | **building for fun and curiosity**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=white)
 ![Zig](https://img.shields.io/badge/-zig-f39b34?style=flat-square&logo=zig&logoColor=white)
