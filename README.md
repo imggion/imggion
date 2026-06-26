@@ -30,6 +30,9 @@ and a lot of other stuff
 
 and a lot of failed projects
 
+### maintainer of
+
+- 🏃‍♂️ [OpenFit](https://github.com/FlavioAdamo/openfit) - a private, desktop-first app for your health data
 ---
 
 ### photography (side quest)
