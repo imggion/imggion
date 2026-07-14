@@ -22,6 +22,7 @@ and a lot of other stuff
 ### what i built
 
 - 🌐 [Avely.me](https://avely.me) - a new link-in-bio. built for creators
+- 📊 [html2realpdf](https://imggion/html2realpdf) - real PDFs, not screenshots
 - 🐳 [Dockscan](https://github.com/imggion/dock-scan) - native menu bar to manage your Docker stuff
 - 🪣 [OpenBucket](https://github.com/imggion/OpenBucket) - a desktop GUI for S3 compatible object storage
 - 💻 [Codeishot](https://codeishot.com) - a place to share your code snippet
